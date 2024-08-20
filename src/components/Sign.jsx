@@ -63,8 +63,8 @@ export default function Sign(props){
         <>
         <div className=" absolute z-50  flex flex-col 
         gap-5 justify-center items-center bg-slate-900 w-[350px] h-[450px] 
-        right-[12%] md:right-[27%] top-[50%] 
-        rounded-3xl"> 
+        right-[12%] md:right-[27%] top-[50px]
+        rounded-3xl "> 
             <h1>Sign-Up</h1>
 
         <input type="text" id='ghostName' placeholder="Enter your Ghost-Name" className="bg-transparent border w-[210px] h-[50px] p-5 rounded-lg " />

@@ -554,6 +554,10 @@ video {
   --tw-contain-style:  ;
 }
 
+.fixed {
+  position: fixed;
+}
+
 .absolute {
   position: absolute;
 }
@@ -568,6 +572,26 @@ video {
 
 .top-\[50\%\] {
   top: 50%;
+}
+
+.top-\[\] {
+  top: ;
+}
+
+.top-\[50px\] {
+  top: 50px;
+}
+
+.right-\[50\%\] {
+  right: 50%;
+}
+
+.right-\[\] {
+  right: ;
+}
+
+.right-\[40px\] {
+  right: 40px;
 }
 
 .z-50 {
